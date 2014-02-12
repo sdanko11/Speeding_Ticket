@@ -14,5 +14,7 @@ However if it is your birthday you can go 6mph over in all cases.
 Birthday is a boolean
 
 no ticket = 0
-small ticket= = 1
+
+small ticket = 1
+
 large ticket = 2
